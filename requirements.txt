@@ -1,0 +1,3 @@
+gspread
+PyYAML
+google-auth
